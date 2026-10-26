@@ -11,7 +11,7 @@ Each model was asked to generate 50 datasets containing 500 fictional company pa
 - `Claude/`: 50 Claude datasets, named `Claude1.csv` through `Claude50.csv`.
 - `benford.py`: Analysis and visualization script.
 - `requirements.txt`: Required Python packages.
-- `results/`: Saved analysis results and figures used in the paper.
+- `Results/`: Saved analysis results and figures used in the paper.
 
 The datasets contain fictional payments, not actual company transactions. Repeated outputs are retained because they arose from separate recorded generation attempts.
 
