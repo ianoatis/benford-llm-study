@@ -1,0 +1,3 @@
+Figure 1. Mean first-digit proportions across valid generation attempts compared with Benford probabilities. Each dataset contains 500 amounts. This figure is descriptive.
+
+Figure 2. Each colored point represents one valid generation attempt, including repeated outputs. Boxes show quartiles and medians; whiskers extend to the most extreme observations within 1.5 IQR. Black diamonds show means, with 95% percentile-bootstrap intervals (20,000 resamples of whole datasets). Lower TV indicates closer agreement. Intervals assume independent generation attempts.

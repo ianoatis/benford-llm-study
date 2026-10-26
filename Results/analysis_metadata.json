@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-10-26T00:59:41.150530+00:00",
+  "data_dir": "/Users/ianoatis/Desktop/Fall 2026/MAT 392 Math Seminar/AI Datasets",
+  "models": [
+    [
+      "Gemini",
+      "Gemini",
+      "Gemini 3.6 Flash",
+      "#0072B2"
+    ],
+    [
+      "ChatGPT",
+      "GPT",
+      "GPT-6 Luna",
+      "#D55E00"
+    ],
+    [
+      "Claude",
+      "Claude",
+      "Claude Sonnet 5",
+      "#009E73"
+    ]
+  ],
+  "files_per_model": 50,
+  "amounts_per_file": 500,
+  "seed": 20261016,
+  "simulations": 100000,
+  "bootstraps": 20000,
+  "alpha": 0.05,
+  "python": "3.11.5",
+  "numpy": "1.26.4",
+  "pandas": "2.2.3",
+  "matplotlib": "3.8.4",
+  "script_sha256": "ffbd06a0786f74b6b43d8f74eb82c1ec3eb16285fb98d1f7894b6bd82cd939d3",
+  "benford_probabilities": [
+    0.3010299956639812,
+    0.17609125905568124,
+    0.12493873660829993,
+    0.09691001300805642,
+    0.07918124604762482,
+    0.06694678963061322,
+    0.05799194697768673,
+    0.05115252244738129,
+    0.04575749056067514
+  ],
+  "ignored_csv_files": []
+}

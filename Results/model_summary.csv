@@ -1,0 +1,4 @@
+model,valid_datasets,missing_files,invalid_files,mean_tv,mean_tv_ci_low,mean_tv_ci_high,flagged_datasets,flagged_percent,distinct_amount_collections
+Gemini 3.6 Flash,50,0,0,0.0446180430136,0.0367875091441,0.0571265243684,2,4,17
+GPT-6 Luna,50,0,0,0.108478373654,0.0993278675234,0.117825122572,42,84,49
+Claude Sonnet 5,50,0,0,0.170231973436,0.158903299387,0.181471656715,50,100,31
