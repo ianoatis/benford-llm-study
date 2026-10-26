@@ -2,7 +2,7 @@
 """First-digit Benford analysis: 50 datasets of 500 amounts from each model.
 
 Install: python -m pip install numpy pandas matplotlib
-Run:     python analyze_benford_concise.py --data-dir "/path/to/AI Datasets"
+Run:     python benford.py --data-dir "/path/to/AI Datasets"
 
 Writes dataset results, one model summary, a duplicate report, two figures,
 captions, and reproducibility metadata. Original files and repeated outputs
