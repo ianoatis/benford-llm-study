@@ -46,4 +46,4 @@ The Monte Carlo reference assumes independent Benford-distributed digits within 
 
 ## Related paper
 
-Add the paper’s final title, author information, and link here.
+Paper information and link to come.
